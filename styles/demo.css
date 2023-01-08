@@ -40,3 +40,21 @@
 .footer-title{
     text-align: center;
 }
+.footer-item{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 230px;
+    margin-right: 230px;
+}
+.foot{
+background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+margin-left: 230px;
+margin-right: 230px;
+}
+.footer-foot{
+    display: flex;
+}
+.foot-title{
+    margin-right: 885px;
+    
+}
