@@ -1,0 +1,42 @@
+/* header styles */
+.title {
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+   
+    text-align: right;
+
+}
+
+.description {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: right;
+}
+
+.btn-primary {
+    font-weight: 600;
+    font-size: 20px;
+    text-align: right;
+    margin: 578px 230px 166px 1210px;
+    background: #F15B22;
+    border-radius: 5px;
+    border: 0;
+
+}
+
+.header {
+    background-image: url(../images/banner/banner1.png);
+}
+.main{
+    display: flex;
+}
+/* Footer styles */
+.footer-title{
+    text-align: center;
+}
